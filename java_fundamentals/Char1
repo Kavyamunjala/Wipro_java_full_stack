@@ -1,0 +1,15 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+class Char1 {
+    public static void main(String[] args) {
+        char var='a';
+        if(var>='a'&&var<='z') {
+            System.out.println("it is char");
+            
+        }
+        else{
+            System.out.println("invalid");
+            
+        }
+    }    
+}
